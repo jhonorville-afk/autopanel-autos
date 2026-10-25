@@ -1,7 +1,7 @@
 {
- "versionCode": 15,
- "versionName": "15.0",
+ "versionCode": 16,
+ "versionName": "16.0",
  "apk": "AutoPanel.apk",
- "sha256": "76fbb7cf51a7d408695603c02f68255ed3e3a4390e129415caee6bbdf281212c",
- "notas": "Actualizaciones automáticas, sugerencias al escribir el auto y nuevo diseño de la pantalla de inicio."
+ "sha256": "e3e83d83a2677ffbca13135482f56fc6dcea7b2d2d91cdb7f2e1909bcffdf173",
+ "notas": "Activación por radio y PIN de instalador para Ajustes. Mantén presionado el anillo del aceite para marcar el cambio."
 }
