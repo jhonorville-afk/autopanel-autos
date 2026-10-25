@@ -56,7 +56,8 @@ PALABRAS_MALAS = [
     "grille", "tyre", " tire", "mirror", "console", "airbag", "crash", "accident", "wreck",
     "model car", "scale model", "lego", "diecast", "die-cast", "brochure", "poster", "trunk",
     "cargo", "police", "taxi", "polic", "ambulance", "rally", " race", "tuning", "modified",
-    "convoy", "parade", "show floor", "auction", "rust", "abandoned", "junk"]
+    "convoy", "parade", "show floor", "auction", "rust", "abandoned", "junk",
+    "itasha", "anime", "decal", "sticker", "livery", "wrap", "cabrio", "convertible"]
 
 
 # ----------------------------------------------------------------- utilidades
@@ -108,9 +109,11 @@ def limpiar_html(s):
 
 # ----------------------------------------------------------------- búsqueda en Commons
 
-def buscar_fotos(marca, modelo, anio):
+def buscar_fotos(marca, modelo, anio, busqueda=""):
     """Devuelve candidatos ordenados del más prometedor al menos."""
     consultas = []
+    if busqueda:
+        consultas.append(busqueda)
     if anio:
         consultas.append(f"{anio} {marca} {modelo}")
     consultas.append(f"{marca} {modelo}")
@@ -234,7 +237,7 @@ def contar_piezas(mask):
 
 # ----------------------------------------------------------------- proceso
 
-def procesar(marca, modelo, anio, forzar=False):
+def procesar(marca, modelo, anio, busqueda="", forzar=False):
     k = clave(marca, modelo, anio)
     nombre = f"{marca} {modelo} {anio}".strip()
     idx = cargar_index()
@@ -243,7 +246,7 @@ def procesar(marca, modelo, anio, forzar=False):
         return True
     print(f"→ {nombre}")
     try:
-        cands = buscar_fotos(marca, modelo, anio)
+        cands = buscar_fotos(marca, modelo, anio, busqueda)
     except Exception as e:
         print(f"   ✗ no pude buscar en Commons: {e}")
         return False
@@ -352,9 +355,9 @@ def leer_modelos():
             linea = linea.split("#")[0].strip()
             if not linea:
                 continue
-            p = [x.strip() for x in linea.split("|")] + ["", ""]
+            p = [x.strip() for x in linea.split("|")] + ["", "", ""]
             if p[0] and p[1]:
-                autos.append((p[0], p[1], p[2]))
+                autos.append((p[0], p[1], p[2], p[3]))
     return autos
 
 
@@ -373,10 +376,10 @@ def main():
     if args:
         autos = []
         for a in args:
-            p = [x.strip() for x in a.split("|")] + ["", ""]
+            p = [x.strip() for x in a.split("|")] + ["", "", ""]
             if not (p[0] and p[1]):
-                sys.exit('Formato: "Marca|Modelo|Año"   (el año es opcional)')
-            autos.append((p[0], p[1], p[2]))
+                sys.exit('Formato: "Marca|Modelo|Año|Búsqueda"   (año y búsqueda son opcionales)')
+            autos.append((p[0], p[1], p[2], p[3]))
     else:
         autos = leer_modelos()
     faltan = []
@@ -385,7 +388,7 @@ def main():
         if procesar(*a, forzar=forzar):
             ok += 1
         else:
-            faltan.append(" | ".join(x for x in a if x))
+            faltan.append(" | ".join(x for x in a[:3] if x))
     print(f"\nTerminado: {ok} de {len(autos)} autos con imagen.")
     with open(os.path.join(BIB, "FALTAN.md"), "w", encoding="utf-8") as f:
         f.write("# Autos sin imagen\n\nNo hubo foto libre que quedara bien recortada. "

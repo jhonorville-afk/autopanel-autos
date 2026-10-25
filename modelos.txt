@@ -1,12 +1,12 @@
 # Autos para la biblioteca de AutoPanel
-# Formato:  Marca | Modelo | Año (opcional)
+# Formato:  Marca | Modelo | Año (opcional) | Búsqueda (opcional, si el nombre en México es distinto)
 # Si pones año, busca fotos de esa generación. Puedes repetir un modelo con distintos años
 # (por ejemplo, Aveo 2012 y Aveo 2018 se ven muy diferentes).
 # Las líneas que empiezan con # se ignoran.
 
 # --- Nissan ---
 Nissan | Versa
-Nissan | March | 2018
+Nissan | March | | Nissan March K13
 Nissan | Sentra
 Nissan | Tsuru
 Nissan | Kicks
