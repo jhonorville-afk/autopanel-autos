@@ -1,0 +1,63 @@
+name: Generar autos
+
+on:
+  push:
+    paths:
+      - modelos.txt
+      - generar_autos.py
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Rehacer todos los autos aunque ya existan (sí / no)"
+        required: false
+        default: "no"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generar-autos
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      BIB: .
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar herramientas
+        run: pip install "rembg[cpu]" pillow requests
+
+      - name: Recordar el modelo de recorte
+        uses: actions/cache@v4
+        with:
+          path: ~/.u2net
+          key: rembg-modelo-isnet-v1
+
+      - name: Generar imagenes
+        run: |
+          if [ "${{ github.event.inputs.forzar }}" = "sí" ] || [ "${{ github.event.inputs.forzar }}" = "si" ]; then
+            python generar_autos.py --forzar
+          else
+            python generar_autos.py
+          fi
+
+      - name: Publicar en el repositorio
+        run: |
+          git config user.name  "autopanel-bot"
+          git config user.email "autopanel-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No hay cambios."
+          else
+            git commit -m "Autos actualizados ($(date +'%Y-%m-%d %H:%M'))"
+            git pull --rebase
+            git push
+          fi
