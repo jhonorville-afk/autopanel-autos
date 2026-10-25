@@ -1,0 +1,34 @@
+{
+ "marca": "Honda",
+ "modelo": "City",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Honda_City_2020.jpg/1920px-Honda_City_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda City 2020.jpg",
+   "score": 111,
+   "credito": "Foto: Thitichai R · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_City_2020.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/HONDA_CITY_%28GM2%2C3%29_China_%289%29.jpg/1920px-HONDA_CITY_%28GM2%2C3%29_China_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:HONDA CITY (GM2,3) China (9).jpg",
+   "score": 104,
+   "credito": "Foto: Dinkun Chen · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:HONDA_CITY_(GM2,3)_China_(9).jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/HONDA_CITY_%28GM2%2C3%29_China.jpg/1920px-HONDA_CITY_%28GM2%2C3%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:HONDA CITY (GM2,3) China.jpg",
+   "score": 103,
+   "credito": "Foto: Dinkun Chen · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:HONDA_CITY_(GM2,3)_China.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Mazda",
+ "modelo": "CX-3",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2018_Mazda_CX-3_Sport_Nav%2B_4X4_2.0_Front.jpg/1920px-2018_Mazda_CX-3_Sport_Nav%2B_4X4_2.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Mazda CX-3 Sport Nav+ 4X4 2.0 Front.jpg",
+   "score": 146,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Mazda_CX-3_Sport_Nav%2B_4X4_2.0_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Mazda_CX-3_XD_%28DK5FW%29_front.JPG/1920px-Mazda_CX-3_XD_%28DK5FW%29_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Mazda CX-3 XD (DK5FW) front.JPG",
+   "score": 120,
+   "credito": "Foto: Tokumeigakarinoaoshima · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda_CX-3_XD_(DK5FW)_front.JPG",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mazda_CX-80%2C_Auto_2024%2C_Zurich_%28PANA0092%29.jpg/1920px-Mazda_CX-80%2C_Auto_2024%2C_Zurich_%28PANA0092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Mazda CX-80, Auto 2024, Zurich (PANA0092).jpg",
+   "score": 118,
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda_CX-80,_Auto_2024,_Zurich_(PANA0092).jpg",
+   "n": 3
+  }
+ ]
+}

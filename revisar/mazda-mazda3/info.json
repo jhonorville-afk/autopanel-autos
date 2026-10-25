@@ -1,0 +1,34 @@
+{
+ "marca": "Mazda",
+ "modelo": "Mazda3",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mazda3_%28BP%29_X_e-Skyactiv-X_IMG_9020.jpg/1920px-Mazda3_%28BP%29_X_e-Skyactiv-X_IMG_9020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Mazda3 (BP) X e-Skyactiv-X IMG 9020.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda3_(BP)_X_e-Skyactiv-X_IMG_9020.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mazda3_E-SKYACTIV-X_2.0_M_Hybrid_Selection_%28IV%29_%E2%80%93_h_12022023.jpg/1920px-Mazda3_E-SKYACTIV-X_2.0_M_Hybrid_Selection_%28IV%29_%E2%80%93_h_12022023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Mazda3 E-SKYACTIV-X 2.0 M Hybrid Selection (IV) – h 12022023.jpg",
+   "score": 118,
+   "credito": "Foto: © M 93 · CC BY-SA 3.0 de · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0 de",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda3_E-SKYACTIV-X_2.0_M_Hybrid_Selection_(IV)_%E2%80%93_h_12022023.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Mazda3_%28BN%29_1X7A7262.jpg/1920px-Mazda3_%28BN%29_1X7A7262.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Mazda3 (BN) 1X7A7262.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda3_(BN)_1X7A7262.jpg",
+   "n": 3
+  }
+ ]
+}

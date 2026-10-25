@@ -1,0 +1,34 @@
+{
+ "marca": "Nissan",
+ "modelo": "X-Trail",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nissan_X-Trail_front_20080131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:Nissan X-Trail front 20080131.jpg",
+   "score": 136,
+   "credito": "Foto: Rudolf Stricker · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_X-Trail_front_20080131.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Nissan_X-Trail_%E2%80%93_front_view.jpg/1920px-Nissan_X-Trail_%E2%80%93_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan X-Trail – front view.jpg",
+   "score": 127,
+   "credito": "Foto: Acgskup · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_X-Trail_%E2%80%93_front_view.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nissan_X-Trail_e-Power_1X7A7056.jpg/1920px-Nissan_X-Trail_e-Power_1X7A7056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan X-Trail e-Power 1X7A7056.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_X-Trail_e-Power_1X7A7056.jpg",
+   "n": 3
+  }
+ ]
+}

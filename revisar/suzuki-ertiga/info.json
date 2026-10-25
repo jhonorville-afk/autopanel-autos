@@ -1,0 +1,34 @@
+{
+ "marca": "Suzuki",
+ "modelo": "Ertiga",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Suzuki_Ertiga_%28Front%29%2C_Jakarta%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:Suzuki Ertiga (Front), Jakarta, Indonesia.jpg",
+   "score": 146,
+   "credito": "Foto: RichardSummersault · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Suzuki_Ertiga_(Front),_Jakarta,_Indonesia.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/2024_Suzuki_Ertiga_1.5_GLX_Hybrid_in_Snow_White_Pearl%2C_front_right%2C_06-16-2024.jpg/1920px-2024_Suzuki_Ertiga_1.5_GLX_Hybrid_in_Snow_White_Pearl%2C_front_right%2C_06-16-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2024 Suzuki Ertiga 1.5 GLX Hybrid in Snow White Pearl, front right, 06-16-2024.jpg",
+   "score": 142,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2024_Suzuki_Ertiga_1.5_GLX_Hybrid_in_Snow_White_Pearl,_front_right,_06-16-2024.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Suzuki_Ertiga_%28Front%29_%282%29%2C_Jakarta%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:Suzuki Ertiga (Front) (2), Jakarta, Indonesia.jpg",
+   "score": 133,
+   "credito": "Foto: RichardSummersault · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Suzuki_Ertiga_(Front)_(2),_Jakarta,_Indonesia.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Kia",
+ "modelo": "Seltos",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/White_KIA_Seltos_%28Front%29.jpg/1920px-White_KIA_Seltos_%28Front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:White KIA Seltos (Front).jpg",
+   "score": 134,
+   "credito": "Foto: Benespit · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:White_KIA_Seltos_(Front).jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2022_Kia_Seltos_%28gray%2C_front%29.jpg/1920px-2022_Kia_Seltos_%28gray%2C_front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2022 Kia Seltos (gray, front).jpg",
+   "score": 132,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Kia_Seltos_(gray,_front).jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kia_Seltos_%28SP3%29_IMG_7812.jpg/1920px-Kia_Seltos_%28SP3%29_IMG_7812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Kia Seltos (SP3) IMG 7812.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Kia_Seltos_(SP3)_IMG_7812.jpg",
+   "n": 3
+  }
+ ]
+}

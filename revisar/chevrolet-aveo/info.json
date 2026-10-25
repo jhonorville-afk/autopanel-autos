@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Aveo",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Chevrolet_Aveo_LT_hatch_front.jpg/1920px-Chevrolet_Aveo_LT_hatch_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Aveo LT hatch front.jpg",
+   "score": 142,
+   "credito": "Foto: IFCAR · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Aveo_LT_hatch_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Chevrolet_Aveo_III_001.jpg/1920px-Chevrolet_Aveo_III_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Aveo III 001.jpg",
+   "score": 119,
+   "credito": "Foto: JustAnotherCarDesigner · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Aveo_III_001.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Chevrolet_Aveo_RS_concept_front.jpg/1920px-Chevrolet_Aveo_RS_concept_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Aveo RS concept front.jpg",
+   "score": 118,
+   "credito": "Foto: IFCAR · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Aveo_RS_concept_front.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Honda",
+ "modelo": "CR-V",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2018_Honda_CR-V_%28RW_MY18%29_%2BSport_2WD_wagon_%282018-10-22%29_01.jpg/1920px-2018_Honda_CR-V_%28RW_MY18%29_%2BSport_2WD_wagon_%282018-10-22%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Honda CR-V (RW MY18) +Sport 2WD wagon (2018-10-22) 01.jpg",
+   "score": 119,
+   "credito": "Foto: EurovisionNim · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Honda_CR-V_(RW_MY18)_%2BSport_2WD_wagon_(2018-10-22)_01.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Honda_CR-V_%286th_generation%29_hybrid_1X7A0866.jpg/1920px-Honda_CR-V_%286th_generation%29_hybrid_1X7A0866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda CR-V (6th generation) hybrid 1X7A0866.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_hybrid_1X7A0866.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Honda_CR-V_%286th_generation%29_hybrid_DSC_8550.jpg/1920px-Honda_CR-V_%286th_generation%29_hybrid_DSC_8550.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda CR-V (6th generation) hybrid DSC 8550.jpg",
+   "score": 116,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_(6th_generation)_hybrid_DSC_8550.jpg",
+   "n": 3
+  }
+ ]
+}

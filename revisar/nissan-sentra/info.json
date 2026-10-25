@@ -1,0 +1,34 @@
+{
+ "marca": "Nissan",
+ "modelo": "Sentra",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2013_Nissan_Sentra_SR_front_left.jpg/1920px-2013_Nissan_Sentra_SR_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2013 Nissan Sentra SR front left.jpg",
+   "score": 143,
+   "credito": "Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2013_Nissan_Sentra_SR_front_left.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2005_Nissan_Sentra_1.3_GX_in_Vivid_Black%2C_front_left.jpg/1920px-2005_Nissan_Sentra_1.3_GX_in_Vivid_Black%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2005 Nissan Sentra 1.3 GX in Vivid Black, front left.jpg",
+   "score": 128,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2005_Nissan_Sentra_1.3_GX_in_Vivid_Black,_front_left.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nissan_Sentra_N16_1.3_GX_Midnight_Gray_-_front.jpg/1920px-Nissan_Sentra_N16_1.3_GX_Midnight_Gray_-_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan Sentra N16 1.3 GX Midnight Gray - front.jpg",
+   "score": 127,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Sentra_N16_1.3_GX_Midnight_Gray_-_front.jpg",
+   "n": 3
+  }
+ ]
+}

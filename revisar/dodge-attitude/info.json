@@ -1,0 +1,34 @@
+{
+ "marca": "Dodge",
+ "modelo": "Attitude",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Dodge_Attitude_%2852729195656%29.jpg/1920px-Dodge_Attitude_%2852729195656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Dodge Attitude (52729195656).jpg",
+   "score": 119,
+   "credito": "Foto: Jason Lawrence from New York · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dodge_Attitude_(52729195656).jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dodge_Attitude_%28Mexico%29_%28cropped%29.jpg/1920px-Dodge_Attitude_%28Mexico%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Dodge Attitude (Mexico) (cropped).jpg",
+   "score": 100,
+   "credito": "Foto: Jason Lawrence · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dodge_Attitude_(Mexico)_(cropped).jpg",
+   "n": 2
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Dodge_Attitude_MY_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:Dodge Attitude MY 2018.jpg",
+   "score": 96,
+   "credito": "Foto: FilipoGarcìa · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dodge_Attitude_MY_2018.jpg",
+   "n": 3
+  }
+ ]
+}

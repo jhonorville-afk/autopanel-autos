@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Tiguan",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Volkswagen_Tiguan_III_IMG_8388.jpg/1920px-Volkswagen_Tiguan_III_IMG_8388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Tiguan III IMG 8388.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tiguan_III_IMG_8388.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Volkswagen_Tiguan_III_IAA_2023_1X7A0489.jpg/1920px-Volkswagen_Tiguan_III_IAA_2023_1X7A0489.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Tiguan III IAA 2023 1X7A0489.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tiguan_III_IAA_2023_1X7A0489.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Volkswagen_Tiguan_R_1X7A0362.jpg/1920px-Volkswagen_Tiguan_R_1X7A0362.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Tiguan R 1X7A0362.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tiguan_R_1X7A0362.jpg",
+   "n": 3
+  }
+ ]
+}

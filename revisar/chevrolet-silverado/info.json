@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Silverado",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Chevrolet_C-10_Silverado_in_Lower_Saxony.jpg/1920px-Chevrolet_C-10_Silverado_in_Lower_Saxony.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet C-10 Silverado in Lower Saxony.jpg",
+   "score": 119,
+   "credito": "Foto: JoachimKohler-HB · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_C-10_Silverado_in_Lower_Saxony.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Chevrolet_C-K_Silverado_Hirschaid_2022-20220709-RM-110037.jpg/1920px-Chevrolet_C-K_Silverado_Hirschaid_2022-20220709-RM-110037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet C-K Silverado Hirschaid 2022-20220709-RM-110037.jpg",
+   "score": 118,
+   "credito": "Foto: Ermell · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_C-K_Silverado_Hirschaid_2022-20220709-RM-110037.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg/1920px-Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Leimershof US-Car-Treffen 2011 Chevrolet Silverado 1500 Regular Cab-20220911-RM-161738.jpg",
+   "score": 117,
+   "credito": "Foto: Ermell · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg",
+   "n": 3
+  }
+ ]
+}

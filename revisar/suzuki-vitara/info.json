@@ -1,0 +1,34 @@
+{
+ "marca": "Suzuki",
+ "modelo": "Vitara",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2025_Suzuki_e_Vitara_front_view.jpg/1920px-2025_Suzuki_e_Vitara_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2025 Suzuki e Vitara front view.jpg",
+   "score": 122,
+   "credito": "Foto: La Revue Automobile · CC BY 3.0 · Wikimedia Commons",
+   "licencia": "CC BY 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2025_Suzuki_e_Vitara_front_view.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Suzuki_e_Vitara_Z_4WD.jpg/1920px-Suzuki_e_Vitara_Z_4WD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Suzuki e Vitara Z 4WD.jpg",
+   "score": 119,
+   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Suzuki_e_Vitara_Z_4WD.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg/1920px-2024_Suzuki_Vitara_%284th_generation%29_DSC_6083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2024 Suzuki Vitara (4th generation) DSC 6083.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2024_Suzuki_Vitara_(4th_generation)_DSC_6083.jpg",
+   "n": 3
+  }
+ ]
+}

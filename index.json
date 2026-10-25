@@ -1,0 +1,826 @@
+{
+ "version": 1,
+ "autos": [
+  {
+   "clave": "chevrolet-aveo",
+   "marca": "Chevrolet",
+   "modelo": "Aveo",
+   "anio": "",
+   "archivo": "autos/chevrolet-aveo.png",
+   "credito": "Foto: IFCAR · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Aveo_LT_hatch_front.jpg"
+  },
+  {
+   "clave": "chevrolet-beat",
+   "marca": "Chevrolet",
+   "modelo": "Beat",
+   "anio": "",
+   "archivo": "autos/chevrolet-beat.png",
+   "credito": "Foto: --Jimbo[online] · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Beat_concept_front.jpg"
+  },
+  {
+   "clave": "chevrolet-captiva",
+   "marca": "Chevrolet",
+   "modelo": "Captiva",
+   "anio": "",
+   "archivo": "autos/chevrolet-captiva.png",
+   "credito": "Foto: M 93 · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Captiva_20090504_front.jpg"
+  },
+  {
+   "clave": "chevrolet-cruze",
+   "marca": "Chevrolet",
+   "modelo": "Cruze",
+   "anio": "",
+   "archivo": "autos/chevrolet-cruze.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Cruze_(third_generation)_1X7A0417.jpg"
+  },
+  {
+   "clave": "chevrolet-onix",
+   "marca": "Chevrolet",
+   "modelo": "Onix",
+   "anio": "",
+   "archivo": "autos/chevrolet-onix.png",
+   "credito": "Foto: User3204 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_SAIC-GM_Chevrolet_Onix_(front).jpg"
+  },
+  {
+   "clave": "chevrolet-silverado",
+   "marca": "Chevrolet",
+   "modelo": "Silverado",
+   "anio": "",
+   "archivo": "autos/chevrolet-silverado.png",
+   "credito": "Foto: JoachimKohler-HB · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_C-10_Silverado_in_Lower_Saxony.jpg"
+  },
+  {
+   "clave": "chevrolet-sonic",
+   "marca": "Chevrolet",
+   "modelo": "Sonic",
+   "anio": "",
+   "archivo": "autos/chevrolet-sonic.png",
+   "credito": "Foto: Cosmic Console · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2014_Chevrolet_Sonic_LT_sedan_-_front_left_view.jpg"
+  },
+  {
+   "clave": "chevrolet-spark",
+   "marca": "Chevrolet",
+   "modelo": "Spark",
+   "anio": "",
+   "archivo": "autos/chevrolet-spark.png",
+   "credito": "Foto: M 93 · Attribution · Wikimedia Commons",
+   "licencia": "Attribution",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Spark_front_20100601.jpg"
+  },
+  {
+   "clave": "chevrolet-tornado",
+   "marca": "Chevrolet",
+   "modelo": "Tornado",
+   "anio": "",
+   "archivo": "autos/chevrolet-tornado.png",
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Tornado_Lorsa.jpg"
+  },
+  {
+   "clave": "chevrolet-trax",
+   "marca": "Chevrolet",
+   "modelo": "Trax",
+   "anio": "",
+   "archivo": "autos/chevrolet-trax.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Trax_Facelift_1X7A0307.jpg"
+  },
+  {
+   "clave": "dodge-attitude",
+   "marca": "Dodge",
+   "modelo": "Attitude",
+   "anio": "",
+   "archivo": "autos/dodge-attitude.png",
+   "credito": "Foto: Jason Lawrence from New York · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dodge_Attitude_(52729195656).jpg"
+  },
+  {
+   "clave": "dodge-journey",
+   "marca": "Dodge",
+   "modelo": "Journey",
+   "anio": "",
+   "archivo": "autos/dodge-journey.png",
+   "credito": "Foto: Cannonball walk · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dodge_Journey_II_in_Playa_del_Carmen_(front).jpg"
+  },
+  {
+   "clave": "ford-ecosport",
+   "marca": "Ford",
+   "modelo": "EcoSport",
+   "anio": "",
+   "archivo": "autos/ford-ecosport.png",
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_EcoSport_SE_in_White_Platinum,_Front_Left,_07-17-2022.jpg"
+  },
+  {
+   "clave": "ford-escape",
+   "marca": "Ford",
+   "modelo": "Escape",
+   "anio": "",
+   "archivo": "autos/ford-escape.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Escape_(fourth_generation)_1X7A6220.jpg"
+  },
+  {
+   "clave": "ford-fiesta",
+   "marca": "Ford",
+   "modelo": "Fiesta",
+   "anio": "",
+   "archivo": "autos/ford-fiesta.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017_Ford_Fiesta_Zetec_Turbo_1.0_Front.jpg"
+  },
+  {
+   "clave": "ford-figo",
+   "marca": "Ford",
+   "modelo": "Figo",
+   "anio": "",
+   "archivo": "autos/ford-figo.png",
+   "credito": "Foto: OnkelFordTaunus · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Figo_front.JPG"
+  },
+  {
+   "clave": "ford-focus",
+   "marca": "Ford",
+   "modelo": "Focus",
+   "anio": "",
+   "archivo": "autos/ford-focus.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_ST-Line_TDCi_1.5_Front.jpg"
+  },
+  {
+   "clave": "ford-fusion",
+   "marca": "Ford",
+   "modelo": "Fusion",
+   "anio": "",
+   "archivo": "autos/ford-fusion.png",
+   "credito": "Foto: Rudolf Stricker · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Fusion_front_20080222.jpg"
+  },
+  {
+   "clave": "ford-lobo",
+   "marca": "Ford",
+   "modelo": "Lobo",
+   "anio": "",
+   "archivo": "autos/ford-lobo.png",
+   "credito": "Foto: Anonymousfox36 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Lobo_IMG001.jpg"
+  },
+  {
+   "clave": "ford-mustang",
+   "marca": "Ford",
+   "modelo": "Mustang",
+   "anio": "",
+   "archivo": "autos/ford-mustang.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_5.0_Front.jpg"
+  },
+  {
+   "clave": "ford-ranger",
+   "marca": "Ford",
+   "modelo": "Ranger",
+   "anio": "",
+   "archivo": "autos/ford-ranger.png",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Ranger_(T6,_P703)_Wildtrak_IMG_7320.jpg"
+  },
+  {
+   "clave": "honda-accord",
+   "marca": "Honda",
+   "modelo": "Accord",
+   "anio": "",
+   "archivo": "autos/honda-accord.png",
+   "credito": "Foto: Mohammed Hamad · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Accord_2006_Front.jpg"
+  },
+  {
+   "clave": "honda-city",
+   "marca": "Honda",
+   "modelo": "City",
+   "anio": "",
+   "archivo": "autos/honda-city.png",
+   "credito": "Foto: Thitichai R · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_City_2020.jpg"
+  },
+  {
+   "clave": "honda-civic",
+   "marca": "Honda",
+   "modelo": "Civic",
+   "anio": "",
+   "archivo": "autos/honda-civic.png",
+   "credito": "Foto: MB-one · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Civic_(1Y7A1724).jpg"
+  },
+  {
+   "clave": "honda-cr-v",
+   "marca": "Honda",
+   "modelo": "CR-V",
+   "anio": "",
+   "archivo": "autos/honda-cr-v.png",
+   "credito": "Foto: EurovisionNim · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Honda_CR-V_(RW_MY18)_%2BSport_2WD_wagon_(2018-10-22)_01.jpg"
+  },
+  {
+   "clave": "honda-fit",
+   "marca": "Honda",
+   "modelo": "Fit",
+   "anio": "",
+   "archivo": "autos/honda-fit.png",
+   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2015-2017_Honda_Fit_Hybrid_F_Package.jpg"
+  },
+  {
+   "clave": "honda-hr-v",
+   "marca": "Honda",
+   "modelo": "HR-V",
+   "anio": "",
+   "archivo": "autos/honda-hr-v.png",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_HR-V_Hybrid_1X7A1882.jpg"
+  },
+  {
+   "clave": "hyundai-accent",
+   "marca": "Hyundai",
+   "modelo": "Accent",
+   "anio": "",
+   "archivo": "autos/hyundai-accent.png",
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_Hyundai_Accent_Preferred_in_Urban_Grey,_Front_Left,_05-22-2022.jpg"
+  },
+  {
+   "clave": "hyundai-creta",
+   "marca": "Hyundai",
+   "modelo": "Creta",
+   "anio": "",
+   "archivo": "autos/hyundai-creta.png",
+   "credito": "Foto: Dinkun Chen · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:HYUNDAI_CRETA_,_iX25_(SU2)_China_(1).jpg"
+  },
+  {
+   "clave": "hyundai-elantra",
+   "marca": "Hyundai",
+   "modelo": "Elantra",
+   "anio": "",
+   "archivo": "autos/hyundai-elantra.png",
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Elantra_N_in_Fiery_Red,_Front_Left,_04-18-2022.jpg"
+  },
+  {
+   "clave": "hyundai-grand-i10",
+   "marca": "Hyundai",
+   "modelo": "Grand i10",
+   "anio": "",
+   "archivo": "autos/hyundai-grand-i10.png",
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_--_Front.jpg"
+  },
+  {
+   "clave": "hyundai-tucson",
+   "marca": "Hyundai",
+   "modelo": "Tucson",
+   "anio": "",
+   "archivo": "autos/hyundai-tucson.png",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_(NX4,_SWB)_PHEV_1X7A1858.jpg"
+  },
+  {
+   "clave": "jeep-compass",
+   "marca": "Jeep",
+   "modelo": "Compass",
+   "anio": "",
+   "archivo": "autos/jeep-compass.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_PHEV_Facelift_1X7A0140.jpg"
+  },
+  {
+   "clave": "jeep-wrangler",
+   "marca": "Jeep",
+   "modelo": "Wrangler",
+   "anio": "",
+   "archivo": "autos/jeep-wrangler.png",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Wrangler_Rubicon_392_IMG_7673.jpg"
+  },
+  {
+   "clave": "kia-forte",
+   "marca": "Kia",
+   "modelo": "Forte",
+   "anio": "",
+   "archivo": "autos/kia-forte.png",
+   "credito": "Foto: Dinkun Chen · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:KIA_FORTE_R_(KIA_FORTE_SEDAN_(TD))_China.jpg"
+  },
+  {
+   "clave": "kia-rio",
+   "marca": "Kia",
+   "modelo": "Rio",
+   "anio": "",
+   "archivo": "autos/kia-rio.png",
+   "credito": "Foto: Makizox · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017_Kia_Rio_2_1.3_Front.jpg"
+  },
+  {
+   "clave": "kia-seltos",
+   "marca": "Kia",
+   "modelo": "Seltos",
+   "anio": "",
+   "archivo": "autos/kia-seltos.png",
+   "credito": "Foto: Benespit · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:White_KIA_Seltos_(Front).jpg"
+  },
+  {
+   "clave": "kia-soul",
+   "marca": "Kia",
+   "modelo": "Soul",
+   "anio": "",
+   "archivo": "autos/kia-soul.png",
+   "credito": "Foto: DieselFordMondeo · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2012_Kia_Soul_1_1.6_(Front).jpg"
+  },
+  {
+   "clave": "kia-sportage",
+   "marca": "Kia",
+   "modelo": "Sportage",
+   "anio": "",
+   "archivo": "autos/kia-sportage.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Kia_Sportage_Plug-in-Hybrid_(NQ5)_1X7A0317.jpg"
+  },
+  {
+   "clave": "mazda-cx-3",
+   "marca": "Mazda",
+   "modelo": "CX-3",
+   "anio": "",
+   "archivo": "autos/mazda-cx-3.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Mazda_CX-3_Sport_Nav%2B_4X4_2.0_Front.jpg"
+  },
+  {
+   "clave": "mazda-cx-30",
+   "marca": "Mazda",
+   "modelo": "CX-30",
+   "anio": "",
+   "archivo": "autos/mazda-cx-30.png",
+   "credito": "Foto: EurovisionNim · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda_CX-30_Touring,_2020_front.jpg"
+  },
+  {
+   "clave": "mazda-cx-5",
+   "marca": "Mazda",
+   "modelo": "CX-5",
+   "anio": "",
+   "archivo": "autos/mazda-cx-5.png",
+   "credito": "Foto: ShangTW · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Mazda_CX-5_2.0_front.jpg"
+  },
+  {
+   "clave": "mazda-mazda2",
+   "marca": "Mazda",
+   "modelo": "Mazda2",
+   "anio": "",
+   "archivo": "autos/mazda-mazda2.png",
+   "credito": "Foto: Aos.1905 · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:MAZDA_SPIRIT_RACING_MAZDA2_Bio_concept_(front_three-quarter_view)_at_Mazda_Museum.jpg"
+  },
+  {
+   "clave": "mazda-mazda3",
+   "marca": "Mazda",
+   "modelo": "Mazda3",
+   "anio": "",
+   "archivo": "autos/mazda-mazda3.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda3_(BP)_X_e-Skyactiv-X_IMG_9020.jpg"
+  },
+  {
+   "clave": "mg-zs",
+   "marca": "MG",
+   "modelo": "ZS",
+   "anio": "",
+   "archivo": "autos/mg-zs.png",
+   "credito": "Foto: Cannonball walk · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:MG_ZS_EV_in_France_(front_right_quarter).jpg"
+  },
+  {
+   "clave": "mitsubishi-l200",
+   "marca": "Mitsubishi",
+   "modelo": "L200",
+   "anio": "",
+   "archivo": "autos/mitsubishi-l200.png",
+   "credito": "Foto: Aciarium · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:DSC05661_Mitsubishi_L200,_Bundesheer,_Front_Right,_2023-10.jpg"
+  },
+  {
+   "clave": "mitsubishi-mirage",
+   "marca": "Mitsubishi",
+   "modelo": "Mirage",
+   "anio": "",
+   "archivo": "autos/mitsubishi-mirage.png",
+   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1981_Mitsubishi_Mirage_1600GT.jpg"
+  },
+  {
+   "clave": "nissan-altima",
+   "marca": "Nissan",
+   "modelo": "Altima",
+   "anio": "",
+   "archivo": "autos/nissan-altima.png",
+   "credito": "Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg"
+  },
+  {
+   "clave": "nissan-frontier",
+   "marca": "Nissan",
+   "modelo": "Frontier",
+   "anio": "",
+   "archivo": "autos/nissan-frontier.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Frontier_(D41)_Pro-4X_Automesse_Ludwigsburg_2022_1X7A5885.jpg"
+  },
+  {
+   "clave": "nissan-kicks",
+   "marca": "Nissan",
+   "modelo": "Kicks",
+   "anio": "",
+   "archivo": "autos/nissan-kicks.png",
+   "credito": "Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Nissan_Kicks_SV_front_3.30.19.jpg"
+  },
+  {
+   "clave": "nissan-np300",
+   "marca": "Nissan",
+   "modelo": "NP300",
+   "anio": "",
+   "archivo": "autos/nissan-np300.png",
+   "credito": "Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2009_Nissan_NP300_Pickup_front.jpg"
+  },
+  {
+   "clave": "nissan-sentra",
+   "marca": "Nissan",
+   "modelo": "Sentra",
+   "anio": "",
+   "archivo": "autos/nissan-sentra.png",
+   "credito": "Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2013_Nissan_Sentra_SR_front_left.jpg"
+  },
+  {
+   "clave": "nissan-tsuru",
+   "marca": "Nissan",
+   "modelo": "Tsuru",
+   "anio": "",
+   "archivo": "autos/nissan-tsuru.png",
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Tsuru_Wagon_--_Front.jpg"
+  },
+  {
+   "clave": "nissan-versa",
+   "marca": "Nissan",
+   "modelo": "Versa",
+   "anio": "",
+   "archivo": "autos/nissan-versa.png",
+   "credito": "Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Nissan_Versa_SV_1.6L,_front_2.29.20.jpg"
+  },
+  {
+   "clave": "nissan-x-trail",
+   "marca": "Nissan",
+   "modelo": "X-Trail",
+   "anio": "",
+   "archivo": "autos/nissan-x-trail.png",
+   "credito": "Foto: Rudolf Stricker · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_X-Trail_front_20080131.jpg"
+  },
+  {
+   "clave": "ram-700",
+   "marca": "RAM",
+   "modelo": "700",
+   "anio": "",
+   "archivo": "autos/ram-700.png",
+   "credito": "Foto: RL GNZLZ · CC BY-SA 2.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ram_700_Laramie_2023.jpg"
+  },
+  {
+   "clave": "renault-duster",
+   "marca": "Renault",
+   "modelo": "Duster",
+   "anio": "",
+   "archivo": "autos/renault-duster.png",
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Renault_Duster_Techroad,_Natal_(DSC05979).jpg"
+  },
+  {
+   "clave": "renault-kwid",
+   "marca": "Renault",
+   "modelo": "Kwid",
+   "anio": "",
+   "archivo": "autos/renault-kwid.png",
+   "credito": "Foto: NaBUru38 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Renault_Kwid_2017_in_Montevideo_(front).jpg"
+  },
+  {
+   "clave": "renault-logan",
+   "marca": "Renault",
+   "modelo": "Logan",
+   "anio": "",
+   "archivo": "autos/renault-logan.png",
+   "credito": "Foto: Throwawayacc222 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Renault_Logan_Stepway_front.jpg"
+  },
+  {
+   "clave": "renault-sandero",
+   "marca": "Renault",
+   "modelo": "Sandero",
+   "anio": "",
+   "archivo": "autos/renault-sandero.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_Dacia_Sandero_Stepway_Techroad_Front.jpg"
+  },
+  {
+   "clave": "seat-ibiza",
+   "marca": "SEAT",
+   "modelo": "Ibiza",
+   "anio": "",
+   "archivo": "autos/seat-ibiza.png",
+   "credito": "Foto: Rutger van der Maar · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1988_Seat_Ibiza_1.2_GL_front.jpg"
+  },
+  {
+   "clave": "seat-leon",
+   "marca": "SEAT",
+   "modelo": "León",
+   "anio": "",
+   "archivo": "autos/seat-leon.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_SEAT_Leon_FR_Technology_TSi_S-A_1.4_Front.jpg"
+  },
+  {
+   "clave": "suzuki-ertiga",
+   "marca": "Suzuki",
+   "modelo": "Ertiga",
+   "anio": "",
+   "archivo": "autos/suzuki-ertiga.png",
+   "credito": "Foto: RichardSummersault · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Suzuki_Ertiga_(Front),_Jakarta,_Indonesia.jpg"
+  },
+  {
+   "clave": "suzuki-swift",
+   "marca": "Suzuki",
+   "modelo": "Swift",
+   "anio": "",
+   "archivo": "autos/suzuki-swift.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Suzuki_Swift_SZ5_Boosterjet_SHVS_1.0_Front.jpg"
+  },
+  {
+   "clave": "suzuki-vitara",
+   "marca": "Suzuki",
+   "modelo": "Vitara",
+   "anio": "",
+   "archivo": "autos/suzuki-vitara.png",
+   "credito": "Foto: La Revue Automobile · CC BY 3.0 · Wikimedia Commons",
+   "licencia": "CC BY 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2025_Suzuki_e_Vitara_front_view.jpg"
+  },
+  {
+   "clave": "toyota-avanza",
+   "marca": "Toyota",
+   "modelo": "Avanza",
+   "anio": "",
+   "archivo": "autos/toyota-avanza.png",
+   "credito": "Foto: Wagon Master Johnson · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Avanza_front_1.jpg"
+  },
+  {
+   "clave": "toyota-camry",
+   "marca": "Toyota",
+   "modelo": "Camry",
+   "anio": "",
+   "archivo": "autos/toyota-camry.png",
+   "credito": "Foto: Throwawayacc222 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2016_Toyota_Camry_Exclusive_white_front.jpg"
+  },
+  {
+   "clave": "toyota-corolla",
+   "marca": "Toyota",
+   "modelo": "Corolla",
+   "anio": "",
+   "archivo": "autos/toyota-corolla.png",
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Toyota_Corolla_Cross_L_FWD,_Front_Left,_11-21-2021.jpg"
+  },
+  {
+   "clave": "toyota-hilux",
+   "marca": "Toyota",
+   "modelo": "Hilux",
+   "anio": "",
+   "archivo": "autos/toyota-hilux.png",
+   "credito": "Foto: Aos.1905 · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_Z_Adventure_(9th_generation)_(front_three-quarter_view)_in_Osaka,_Japan.jpg"
+  },
+  {
+   "clave": "toyota-rav4",
+   "marca": "Toyota",
+   "modelo": "RAV4",
+   "anio": "",
+   "archivo": "autos/toyota-rav4.png",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_(XA10)_IMG_1260.jpg"
+  },
+  {
+   "clave": "toyota-tacoma",
+   "marca": "Toyota",
+   "modelo": "Tacoma",
+   "anio": "",
+   "archivo": "autos/toyota-tacoma.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Tacoma_(N300)_TRD_IMG_6050.jpg"
+  },
+  {
+   "clave": "toyota-yaris",
+   "marca": "Toyota",
+   "modelo": "Yaris",
+   "anio": "",
+   "archivo": "autos/toyota-yaris.png",
+   "credito": "Foto: Aciarium · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:DSC00769_Toyota_Yaris,_Carabinieri,_Front_Left.jpg"
+  },
+  {
+   "clave": "volkswagen-beetle",
+   "marca": "Volkswagen",
+   "modelo": "Beetle",
+   "anio": "",
+   "archivo": "autos/volkswagen-beetle.png",
+   "credito": "Foto: Palauenc05 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1957_Volkswagen_Beetle,_export_model,_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg"
+  },
+  {
+   "clave": "volkswagen-gol",
+   "marca": "Volkswagen",
+   "modelo": "Gol",
+   "anio": "",
+   "archivo": "autos/volkswagen-gol.png",
+   "credito": "Foto: Passarinho · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:VW_Gol_2009_front.jpg"
+  },
+  {
+   "clave": "volkswagen-golf",
+   "marca": "Volkswagen",
+   "modelo": "Golf",
+   "anio": "",
+   "archivo": "autos/volkswagen-golf.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Volkswagen_Golf_Style_1.5_Front.jpg"
+  },
+  {
+   "clave": "volkswagen-jetta",
+   "marca": "Volkswagen",
+   "modelo": "Jetta",
+   "anio": "",
+   "archivo": "autos/volkswagen-jetta.png",
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Jetta_VII_GLI_IMG_3138.jpg"
+  },
+  {
+   "clave": "volkswagen-pointer",
+   "marca": "Volkswagen",
+   "modelo": "Pointer",
+   "anio": "",
+   "archivo": "autos/volkswagen-pointer.png",
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Pointer_3p_--_avant.jpg"
+  },
+  {
+   "clave": "volkswagen-polo",
+   "marca": "Volkswagen",
+   "modelo": "Polo",
+   "anio": "",
+   "archivo": "autos/volkswagen-polo.png",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Volkswagen_Polo_SE_TSi_1.0_Front.jpg"
+  },
+  {
+   "clave": "volkswagen-taos",
+   "marca": "Volkswagen",
+   "modelo": "Taos",
+   "anio": "",
+   "archivo": "autos/volkswagen-taos.png",
+   "credito": "Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Volkswagen_Taos_1.5T_SE_in_Cornflower_Blue,_front_left.jpg"
+  },
+  {
+   "clave": "volkswagen-tiguan",
+   "marca": "Volkswagen",
+   "modelo": "Tiguan",
+   "anio": "",
+   "archivo": "autos/volkswagen-tiguan.png",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Tiguan_III_IMG_8388.jpg"
+  },
+  {
+   "clave": "volkswagen-vento",
+   "marca": "Volkswagen",
+   "modelo": "Vento",
+   "anio": "",
+   "archivo": "autos/volkswagen-vento.png",
+   "credito": "Foto: Ank Kumar · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Silver_Volkswagen_Vento_Sedan_(front_view)_at_Sky_gold_Aeroview_apartment,_Devanahalli,_Bengaluru,_Karnataka,_India_(Ank_Kumar,_INFOSYS_Limited)_02.jpg"
+  },
+  {
+   "clave": "volkswagen-virtus",
+   "marca": "Volkswagen",
+   "modelo": "Virtus",
+   "anio": "",
+   "archivo": "autos/volkswagen-virtus.png",
+   "credito": "Foto: Just a Man · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Virtus_1.6_MSi_Trendline_(facelift).jpg"
+  }
+ ],
+ "actualizado": "2026-10-25 05:07"
+}

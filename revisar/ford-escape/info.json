@@ -1,0 +1,34 @@
+{
+ "marca": "Ford",
+ "modelo": "Escape",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ford_Escape_%28fourth_generation%29_1X7A6220.jpg/1920px-Ford_Escape_%28fourth_generation%29_1X7A6220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Escape (fourth generation) 1X7A6220.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Escape_(fourth_generation)_1X7A6220.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ford_Escape_%28fourth_generation%29_1X7A6227.jpg/1920px-Ford_Escape_%28fourth_generation%29_1X7A6227.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Escape (fourth generation) 1X7A6227.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Escape_(fourth_generation)_1X7A6227.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ford_Escape_%28fourth_generation%29_DSC_7799.jpg/1920px-Ford_Escape_%28fourth_generation%29_DSC_7799.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Escape (fourth generation) DSC 7799.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Escape_(fourth_generation)_DSC_7799.jpg",
+   "n": 3
+  }
+ ]
+}

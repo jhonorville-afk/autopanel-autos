@@ -1,0 +1,34 @@
+{
+ "marca": "Honda",
+ "modelo": "Accord",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Honda_Accord_2006_Front.jpg/1920px-Honda_Accord_2006_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda Accord 2006 Front.jpg",
+   "score": 136,
+   "credito": "Foto: Mohammed Hamad · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Accord_2006_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Honda_Accord_1993_Finland.JPG/1920px-Honda_Accord_1993_Finland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda Accord 1993 Finland.JPG",
+   "score": 119,
+   "credito": "Foto: MattiPaavola · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Accord_1993_Finland.JPG",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Honda_Accord_%282002%29_coupe_1X7A1502.jpg/1920px-Honda_Accord_%282002%29_coupe_1X7A1502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda Accord (2002) coupe 1X7A1502.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Accord_(2002)_coupe_1X7A1502.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "Camry",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2016_Toyota_Camry_Exclusive_white_front.jpg/1920px-2016_Toyota_Camry_Exclusive_white_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2016 Toyota Camry Exclusive white front.jpg",
+   "score": 132,
+   "credito": "Foto: Throwawayacc222 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2016_Toyota_Camry_Exclusive_white_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/2020_Toyota_Camry_S-Edition_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:2020 Toyota Camry S-Edition front.jpg",
+   "score": 128,
+   "credito": "Foto: Throwawayacc222 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Camry_S-Edition_front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Toyota_Camry_%28XV70%29_IMG_9081.jpg/1920px-Toyota_Camry_%28XV70%29_IMG_9081.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Camry (XV70) IMG 9081.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Camry_(XV70)_IMG_9081.jpg",
+   "n": 3
+  }
+ ]
+}

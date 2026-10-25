@@ -1,0 +1,34 @@
+{
+ "marca": "Nissan",
+ "modelo": "Kicks",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2018_Nissan_Kicks_SV_front_3.30.19.jpg/1920px-2018_Nissan_Kicks_SV_front_3.30.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Nissan Kicks SV front 3.30.19.jpg",
+   "score": 132,
+   "credito": "Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Nissan_Kicks_SV_front_3.30.19.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/2026_Nissan_Kicks_e-Power_SV_%28Thailand%29_front_view.jpg/1920px-2026_Nissan_Kicks_e-Power_SV_%28Thailand%29_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2026 Nissan Kicks e-Power SV (Thailand) front view.jpg",
+   "score": 127,
+   "credito": "Foto: Andra Febrian · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2026_Nissan_Kicks_e-Power_SV_(Thailand)_front_view.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Nissan_Kicks_%28P16%29_DSC_2875.jpg/1920px-Nissan_Kicks_%28P16%29_DSC_2875.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan Kicks (P16) DSC 2875.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Kicks_(P16)_DSC_2875.jpg",
+   "n": 3
+  }
+ ]
+}

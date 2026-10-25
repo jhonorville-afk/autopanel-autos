@@ -1,0 +1,34 @@
+{
+ "marca": "Renault",
+ "modelo": "Duster",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Renault_Duster_Techroad%2C_Natal_%28DSC05979%29.jpg/1920px-Renault_Duster_Techroad%2C_Natal_%28DSC05979%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Renault Duster Techroad, Natal (DSC05979).jpg",
+   "score": 116,
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Renault_Duster_Techroad,_Natal_(DSC05979).jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Renault_Duster_Tandil.jpg/1920px-Renault_Duster_Tandil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Renault Duster Tandil.jpg",
+   "score": 112,
+   "credito": "Foto: Ezarate · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Renault_Duster_Tandil.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Dacia_Duster_2025_Front_1.jpg/1920px-Dacia_Duster_2025_Front_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Dacia Duster 2025 Front 1.jpg",
+   "score": 106,
+   "credito": "Foto: Mihnea Lazăr · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dacia_Duster_2025_Front_1.jpg",
+   "n": 3
+  }
+ ]
+}

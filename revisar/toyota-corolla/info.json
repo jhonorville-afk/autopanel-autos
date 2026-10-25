@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "Corolla",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/2022_Toyota_Corolla_Cross_L_FWD%2C_Front_Left%2C_11-21-2021.jpg/1920px-2022_Toyota_Corolla_Cross_L_FWD%2C_Front_Left%2C_11-21-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2022 Toyota Corolla Cross L FWD, Front Left, 11-21-2021.jpg",
+   "score": 123,
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Toyota_Corolla_Cross_L_FWD,_Front_Left,_11-21-2021.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Toyota_Corolla_Cross_Hybrid_1X7A1861.jpg/1920px-Toyota_Corolla_Cross_Hybrid_1X7A1861.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Corolla Cross Hybrid 1X7A1861.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_Cross_Hybrid_1X7A1861.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Toyota_Corolla_Cross_Hybrid_1X7A1862.jpg/1920px-Toyota_Corolla_Cross_Hybrid_1X7A1862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Corolla Cross Hybrid 1X7A1862.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_Cross_Hybrid_1X7A1862.jpg",
+   "n": 3
+  }
+ ]
+}

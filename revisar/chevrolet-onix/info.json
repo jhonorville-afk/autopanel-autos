@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Onix",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2019_SAIC-GM_Chevrolet_Onix_%28front%29.jpg/1920px-2019_SAIC-GM_Chevrolet_Onix_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2019 SAIC-GM Chevrolet Onix (front).jpg",
+   "score": 136,
+   "credito": "Foto: User3204 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_SAIC-GM_Chevrolet_Onix_(front).jpg",
+   "n": 1
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Chevrolet_Onix_%28second_generation%2C_front_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:Chevrolet Onix (second generation, front view).jpg",
+   "score": 134,
+   "credito": "Foto: Chevrolet México · CC BY 3.0 · Wikimedia Commons",
+   "licencia": "CC BY 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Onix_(second_generation,_front_view).jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Chevrolet_Onix_RS%2C_EVA-01.jpg/1920px-Chevrolet_Onix_RS%2C_EVA-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Onix RS, EVA-01.jpg",
+   "score": 119,
+   "credito": "Foto: Rjcastillo · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Onix_RS,_EVA-01.jpg",
+   "n": 3
+  }
+ ]
+}

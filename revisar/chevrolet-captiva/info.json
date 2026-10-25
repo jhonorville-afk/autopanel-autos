@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Captiva",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chevrolet_Captiva_20090504_front.jpg/1920px-Chevrolet_Captiva_20090504_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Captiva 20090504 front.jpg",
+   "score": 144,
+   "credito": "Foto: M 93 · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Captiva_20090504_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2017_Chevrolet_Captiva_2.0_LS_VCDi_in_Sapphire_Black%2C_front_right%2C_06-21-2024.jpg/1920px-2017_Chevrolet_Captiva_2.0_LS_VCDi_in_Sapphire_Black%2C_front_right%2C_06-21-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2017 Chevrolet Captiva 2.0 LS VCDi in Sapphire Black, front right, 06-21-2024.jpg",
+   "score": 133,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017_Chevrolet_Captiva_2.0_LS_VCDi_in_Sapphire_Black,_front_right,_06-21-2024.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/2025_Chevrolet_Captiva_1.5_Premier_in_white%2C_front_right.jpg/1920px-2025_Chevrolet_Captiva_1.5_Premier_in_white%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2025 Chevrolet Captiva 1.5 Premier in white, front right.jpg",
+   "score": 128,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2025_Chevrolet_Captiva_1.5_Premier_in_white,_front_right.jpg",
+   "n": 3
+  }
+ ]
+}

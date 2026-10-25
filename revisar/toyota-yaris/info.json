@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "Yaris",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/DSC00769_Toyota_Yaris%2C_Carabinieri%2C_Front_Left.jpg/1920px-DSC00769_Toyota_Yaris%2C_Carabinieri%2C_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:DSC00769 Toyota Yaris, Carabinieri, Front Left.jpg",
+   "score": 143,
+   "credito": "Foto: Aciarium · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:DSC00769_Toyota_Yaris,_Carabinieri,_Front_Left.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg/1920px-2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2020 Toyota Yaris Design HEV CVT 1.5 Front.jpg",
+   "score": 123,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Toyota_Yaris_GRMN_IMG_0856.jpg/1920px-Toyota_Yaris_GRMN_IMG_0856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Yaris GRMN IMG 0856.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Yaris_GRMN_IMG_0856.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Nissan",
+ "modelo": "Versa",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2020_Nissan_Versa_SV_1.6L%2C_front_2.29.20.jpg/1920px-2020_Nissan_Versa_SV_1.6L%2C_front_2.29.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2020 Nissan Versa SV 1.6L, front 2.29.20.jpg",
+   "score": 146,
+   "credito": "Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Nissan_Versa_SV_1.6L,_front_2.29.20.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2008_Nissan_Versa_1.8_S_sedan%2C_front_right%2C_09-09-2023.jpg/1920px-2008_Nissan_Versa_1.8_S_sedan%2C_front_right%2C_09-09-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2008 Nissan Versa 1.8 S sedan, front right, 09-09-2023.jpg",
+   "score": 120,
+   "credito": "Foto: MercurySable99 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2008_Nissan_Versa_1.8_S_sedan,_front_right,_09-09-2023.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2023_Nissan_Versa_%28N18%29_DSC_2669.jpg/1920px-2023_Nissan_Versa_%28N18%29_DSC_2669.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2023 Nissan Versa (N18) DSC 2669.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2023_Nissan_Versa_(N18)_DSC_2669.jpg",
+   "n": 3
+  }
+ ]
+}

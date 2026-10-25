@@ -1,0 +1,34 @@
+{
+ "marca": "Ford",
+ "modelo": "Mustang",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Ford_Mustang_GT_5.0_Front.jpg/1920px-2018_Ford_Mustang_GT_5.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Ford Mustang GT 5.0 Front.jpg",
+   "score": 127,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_Mustang_GT_5.0_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ford_Mustang_VII_Convertible_Autofr%C3%BChling_Ulm_IMG_9339.jpg/1920px-Ford_Mustang_VII_Convertible_Autofr%C3%BChling_Ulm_IMG_9339.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Mustang VII Convertible Autofrühling Ulm IMG 9339.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_VII_Convertible_Autofr%C3%BChling_Ulm_IMG_9339.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/1966_Ford_Mustang_coupe_white_002.jpg/1920px-1966_Ford_Mustang_coupe_white_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:1966 Ford Mustang coupe white 002.jpg",
+   "score": 117,
+   "credito": "Foto: Hans-Jürgen Neubert · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1966_Ford_Mustang_coupe_white_002.jpg",
+   "n": 3
+  }
+ ]
+}

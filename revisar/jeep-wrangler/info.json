@@ -1,0 +1,34 @@
+{
+ "marca": "Jeep",
+ "modelo": "Wrangler",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Jeep_Wrangler_Rubicon_392_IMG_7673.jpg/1920px-Jeep_Wrangler_Rubicon_392_IMG_7673.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Jeep Wrangler Rubicon 392 IMG 7673.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Wrangler_Rubicon_392_IMG_7673.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jeep_Wrangler_Rubicon_%28JL%29_4xe_1X7A0285.jpg/1920px-Jeep_Wrangler_Rubicon_%28JL%29_4xe_1X7A0285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Jeep Wrangler Rubicon (JL) 4xe 1X7A0285.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Wrangler_Rubicon_(JL)_4xe_1X7A0285.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jeep_Wrangler_Rubicon_392_IMG_7694.jpg/1920px-Jeep_Wrangler_Rubicon_392_IMG_7694.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Jeep Wrangler Rubicon 392 IMG 7694.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Wrangler_Rubicon_392_IMG_7694.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Renault",
+ "modelo": "Kwid",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Renault_Kwid_2017_in_Montevideo_%28front%29.jpg/1920px-Renault_Kwid_2017_in_Montevideo_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Renault Kwid 2017 in Montevideo (front).jpg",
+   "score": 154,
+   "credito": "Foto: NaBUru38 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Renault_Kwid_2017_in_Montevideo_(front).jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2018_Renault_Kwid_1.0_SCe_Iconic_%28Brazil%29%2C_frontal_view.jpg/1920px-2018_Renault_Kwid_1.0_SCe_Iconic_%28Brazil%29%2C_frontal_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Renault Kwid 1.0 SCe Iconic (Brazil), frontal view.jpg",
+   "score": 129,
+   "credito": "Foto: Maxi-Napo-99 · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Renault_Kwid_1.0_SCe_Iconic_(Brazil),_frontal_view.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Renault_Kwid_%28front%29.jpg/1920px-Renault_Kwid_%28front%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Renault Kwid (front).jpg",
+   "score": 125,
+   "credito": "Foto: Jason Lawrence · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Renault_Kwid_(front).jpg",
+   "n": 3
+  }
+ ]
+}

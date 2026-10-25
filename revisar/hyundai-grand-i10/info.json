@@ -1,0 +1,34 @@
+{
+ "marca": "Hyundai",
+ "modelo": "Grand i10",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Hyundai_Grand_i10_--_Front.jpg/1920px-Hyundai_Grand_i10_--_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Hyundai Grand i10 -- Front.jpg",
+   "score": 141,
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_--_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hyundai_Grand_i10_1.2_Front.jpg/1920px-Hyundai_Grand_i10_1.2_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Hyundai Grand i10 1.2 Front.jpg",
+   "score": 133,
+   "credito": "Foto: Areaseven · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_1.2_Front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hyundai_Grand_i10_front.jpg/1920px-Hyundai_Grand_i10_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Hyundai Grand i10 front.jpg",
+   "score": 127,
+   "credito": "Foto: Jason Lawrence · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_front.jpg",
+   "n": 3
+  }
+ ]
+}

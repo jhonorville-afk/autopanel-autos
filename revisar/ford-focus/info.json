@@ -1,0 +1,34 @@
+{
+ "marca": "Ford",
+ "modelo": "Focus",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/2018_Ford_Focus_ST-Line_TDCi_1.5_Front.jpg/1920px-2018_Ford_Focus_ST-Line_TDCi_1.5_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Ford Focus ST-Line TDCi 1.5 Front.jpg",
+   "score": 151,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_Focus_ST-Line_TDCi_1.5_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ford_Focus%2C_Highway_1.jpg/1920px-Ford_Focus%2C_Highway_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Focus, Highway 1.jpg",
+   "score": 119,
+   "credito": "Foto: Photograph by Mike Peel (www.mikepeel.net). · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Focus,_Highway_1.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/FordFocus-Tandil-ago2016.jpg/1920px-FordFocus-Tandil-ago2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:FordFocus-Tandil-ago2016.jpg",
+   "score": 118,
+   "credito": "Foto: Ezarate · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:FordFocus-Tandil-ago2016.jpg",
+   "n": 3
+  }
+ ]
+}

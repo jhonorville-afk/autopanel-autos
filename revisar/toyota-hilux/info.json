@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "Hilux",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Toyota_Hilux_Z_Adventure_%289th_generation%29_%28front_three-quarter_view%29_in_Osaka%2C_Japan.jpg/1920px-Toyota_Hilux_Z_Adventure_%289th_generation%29_%28front_three-quarter_view%29_in_Osaka%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Hilux Z Adventure (9th generation) (front three-quarter view) in Osaka, Japan.jpg",
+   "score": 133,
+   "credito": "Foto: Aos.1905 · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_Z_Adventure_(9th_generation)_(front_three-quarter_view)_in_Osaka,_Japan.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Toyota_Hilux_4x2_G_%28CAA-9105%29_Front.jpg/1920px-Toyota_Hilux_4x2_G_%28CAA-9105%29_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Hilux 4x2 G (CAA-9105) Front.jpg",
+   "score": 122,
+   "credito": "Foto: Captainmorlypogi1959 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_4x2_G_(CAA-9105)_Front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Alsager_Carnival_-_fire_service_Toyota_Hilux_-_Jun_2025.jpg/1920px-Alsager_Carnival_-_fire_service_Toyota_Hilux_-_Jun_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Alsager Carnival - fire service Toyota Hilux - Jun 2025.jpg",
+   "score": 119,
+   "credito": "Foto: Dominic Nelson · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Alsager_Carnival_-_fire_service_Toyota_Hilux_-_Jun_2025.jpg",
+   "n": 3
+  }
+ ]
+}

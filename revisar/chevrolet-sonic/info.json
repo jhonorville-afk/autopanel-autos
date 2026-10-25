@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Sonic",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2014_Chevrolet_Sonic_LT_sedan_-_front_left_view.jpg/1920px-2014_Chevrolet_Sonic_LT_sedan_-_front_left_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2014 Chevrolet Sonic LT sedan - front left view.jpg",
+   "score": 147,
+   "credito": "Foto: Cosmic Console · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2014_Chevrolet_Sonic_LT_sedan_-_front_left_view.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2026_Chevrolet_Sonic_front.jpg/1920px-2026_Chevrolet_Sonic_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2026 Chevrolet Sonic front.jpg",
+   "score": 142,
+   "credito": "Foto: Autosdeprimera · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2026_Chevrolet_Sonic_front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2012_Chevrolet_Sonic_LT_sedan%2C_front_right%2C_09-07-2024.jpg/1920px-2012_Chevrolet_Sonic_LT_sedan%2C_front_right%2C_09-07-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2012 Chevrolet Sonic LT sedan, front right, 09-07-2024.jpg",
+   "score": 135,
+   "credito": "Foto: MercurySable99 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2012_Chevrolet_Sonic_LT_sedan,_front_right,_09-07-2024.jpg",
+   "n": 3
+  }
+ ]
+}

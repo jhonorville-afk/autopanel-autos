@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "Tacoma",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Toyota_Tacoma_%28N300%29_TRD_IMG_6050.jpg/1920px-Toyota_Tacoma_%28N300%29_TRD_IMG_6050.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Tacoma (N300) TRD IMG 6050.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Tacoma_(N300)_TRD_IMG_6050.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Toyota_Tacoma_Huntington_Beach_Lifeguard.jpg/1920px-Toyota_Tacoma_Huntington_Beach_Lifeguard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Tacoma Huntington Beach Lifeguard.jpg",
+   "score": 118,
+   "credito": "Foto: Guywelch2000 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Tacoma_Huntington_Beach_Lifeguard.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Toyota_Tacoma_TRD_Off_Road_%28N400%29_IMG_9727_%28cropped%29.jpg/1920px-Toyota_Tacoma_TRD_Off_Road_%28N400%29_IMG_9727_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Tacoma TRD Off Road (N400) IMG 9727 (cropped).jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Tacoma_TRD_Off_Road_(N400)_IMG_9727_(cropped).jpg",
+   "n": 3
+  }
+ ]
+}

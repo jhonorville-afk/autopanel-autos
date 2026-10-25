@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Jetta",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Volkswagen_Jetta_VII_GLI_IMG_3138.jpg/1920px-Volkswagen_Jetta_VII_GLI_IMG_3138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Jetta VII GLI IMG 3138.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Jetta_VII_GLI_IMG_3138.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Volkswagen_Jetta_VI_GLI_IMG_8939.jpg/1920px-Volkswagen_Jetta_VI_GLI_IMG_8939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Jetta VI GLI IMG 8939.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Jetta_VI_GLI_IMG_8939.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2025_Volkswagen_Jetta_VII_DSC_7417.jpg/1920px-2025_Volkswagen_Jetta_VII_DSC_7417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2025 Volkswagen Jetta VII DSC 7417.jpg",
+   "score": 116,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2025_Volkswagen_Jetta_VII_DSC_7417.jpg",
+   "n": 3
+  }
+ ]
+}

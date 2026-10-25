@@ -1,0 +1,34 @@
+{
+ "marca": "Honda",
+ "modelo": "HR-V",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Honda_HR-V_Hybrid_1X7A1882.jpg/1920px-Honda_HR-V_Hybrid_1X7A1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda HR-V Hybrid 1X7A1882.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_HR-V_Hybrid_1X7A1882.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Honda_HR-V_Hybrid_DSC_7131.jpg/1920px-Honda_HR-V_Hybrid_DSC_7131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda HR-V Hybrid DSC 7131.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_HR-V_Hybrid_DSC_7131.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2015_Honda_HR-V.jpg/1920px-2015_Honda_HR-V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2015 Honda HR-V.jpg",
+   "score": 116,
+   "credito": "Foto: Jacek Halicki · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2015_Honda_HR-V.jpg",
+   "n": 3
+  }
+ ]
+}

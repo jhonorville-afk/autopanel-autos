@@ -1,0 +1,34 @@
+{
+ "marca": "Jeep",
+ "modelo": "Compass",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Jeep_Compass_%28MP%29_PHEV_Facelift_1X7A0140.jpg/1920px-Jeep_Compass_%28MP%29_PHEV_Facelift_1X7A0140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Jeep Compass (MP) PHEV Facelift 1X7A0140.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_PHEV_Facelift_1X7A0140.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Jeep_Compass_%28MP%29_PHEV_Facelift_1X7A0139.jpg/1920px-Jeep_Compass_%28MP%29_PHEV_Facelift_1X7A0139.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Jeep Compass (MP) PHEV Facelift 1X7A0139.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Compass_(MP)_PHEV_Facelift_1X7A0139.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Jeep_Compass_e_%28J4U%29_Leonberg_2026_IMG_8758.jpg/1920px-Jeep_Compass_e_%28J4U%29_Leonberg_2026_IMG_8758.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Jeep Compass e (J4U) Leonberg 2026 IMG 8758.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jeep_Compass_e_(J4U)_Leonberg_2026_IMG_8758.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Golf",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg/1920px-2020_Volkswagen_Golf_Style_1.5_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2020 Volkswagen Golf Style 1.5 Front.jpg",
+   "score": 154,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Volkswagen_Golf_Style_1.5_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Volkswagen_Golf_Alltrack_%282020%29_1X7A0289.jpg/1920px-Volkswagen_Golf_Alltrack_%282020%29_1X7A0289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Golf Alltrack (2020) 1X7A0289.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_Alltrack_(2020)_1X7A0289.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Volkswagen_Golf_II_GTI_16V_IMG_9644.jpg/1920px-Volkswagen_Golf_II_GTI_16V_IMG_9644.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Golf II GTI 16V IMG 9644.jpg",
+   "score": 117,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_II_GTI_16V_IMG_9644.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "SEAT",
+ "modelo": "Ibiza",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1988_Seat_Ibiza_1.2_GL_front.jpg/1920px-1988_Seat_Ibiza_1.2_GL_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:1988 Seat Ibiza 1.2 GL front.jpg",
+   "score": 142,
+   "credito": "Foto: Rutger van der Maar · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1988_Seat_Ibiza_1.2_GL_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2005_SEAT_Ibiza_Sport_-_1.4_16V_%2875PS%29_petrol_manual_-_2025-04-05%2C_front_left.jpg/1920px-2005_SEAT_Ibiza_Sport_-_1.4_16V_%2875PS%29_petrol_manual_-_2025-04-05%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2005 SEAT Ibiza Sport - 1.4 16V (75PS) petrol manual - 2025-04-05, front left.jpg",
+   "score": 129,
+   "credito": "Foto: DieselFordMondeo · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2005_SEAT_Ibiza_Sport_-_1.4_16V_(75PS)_petrol_manual_-_2025-04-05,_front_left.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seat_Ibiza_6F_Facelift_IMG_0117.jpg/1920px-Seat_Ibiza_6F_Facelift_IMG_0117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Seat Ibiza 6F Facelift IMG 0117.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Seat_Ibiza_6F_Facelift_IMG_0117.jpg",
+   "n": 3
+  }
+ ]
+}

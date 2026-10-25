@@ -1,0 +1,34 @@
+{
+ "marca": "Ford",
+ "modelo": "EcoSport",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2018_Ford_EcoSport_SE_in_White_Platinum%2C_Front_Left%2C_07-17-2022.jpg/1920px-2018_Ford_EcoSport_SE_in_White_Platinum%2C_Front_Left%2C_07-17-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Ford EcoSport SE in White Platinum, Front Left, 07-17-2022.jpg",
+   "score": 144,
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_EcoSport_SE_in_White_Platinum,_Front_Left,_07-17-2022.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/2021_Ford_EcoSport_ST-Line_EcoBoost_-_998cc_1.0_%28125PS%29_Petrol_-_Desert_Island_Blue_-_02-2024%2C_Front.jpg/1920px-2021_Ford_EcoSport_ST-Line_EcoBoost_-_998cc_1.0_%28125PS%29_Petrol_-_Desert_Island_Blue_-_02-2024%2C_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2021 Ford EcoSport ST-Line EcoBoost - 998cc 1.0 (125PS) Petrol - Desert Island Blue - 02-2024, Front.jpg",
+   "score": 132,
+   "credito": "Foto: Harvey Bold · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2021_Ford_EcoSport_ST-Line_EcoBoost_-_998cc_1.0_(125PS)_Petrol_-_Desert_Island_Blue_-_02-2024,_Front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg/1920px-2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Ford Ecosport ST-Line TDCi 1.5.jpg",
+   "score": 119,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ford_Ecosport_ST-Line_TDCi_1.5.jpg",
+   "n": 3
+  }
+ ]
+}

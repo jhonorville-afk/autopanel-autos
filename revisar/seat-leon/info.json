@@ -1,0 +1,34 @@
+{
+ "marca": "SEAT",
+ "modelo": "León",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/2018_SEAT_Leon_FR_Technology_TSi_S-A_1.4_Front.jpg/1920px-2018_SEAT_Leon_FR_Technology_TSi_S-A_1.4_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 SEAT Leon FR Technology TSi S-A 1.4 Front.jpg",
+   "score": 144,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_SEAT_Leon_FR_Technology_TSi_S-A_1.4_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Seat_Leon_1.4_TSI_Start%26Stop_Style_%28III%29_%E2%80%93_Frontansicht%2C_10._August_2013%2C_Ratingen.jpg/1920px-Seat_Leon_1.4_TSI_Start%26Stop_Style_%28III%29_%E2%80%93_Frontansicht%2C_10._August_2013%2C_Ratingen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Seat Leon 1.4 TSI Start&Stop Style (III) – Frontansicht, 10. August 2013, Ratingen.jpg",
+   "score": 143,
+   "credito": "Foto: M 93 · CC BY-SA 3.0 de · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0 de",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Seat_Leon_1.4_TSI_Start%26Stop_Style_(III)_%E2%80%93_Frontansicht,_10._August_2013,_Ratingen.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/SEAT_Leon_Cupra_002.jpg/1920px-SEAT_Leon_Cupra_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:SEAT Leon Cupra 002.jpg",
+   "score": 118,
+   "credito": "Foto: JustAnotherCarDesigner · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:SEAT_Leon_Cupra_002.jpg",
+   "n": 3
+  }
+ ]
+}

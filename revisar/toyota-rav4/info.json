@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "RAV4",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Toyota_RAV4_%28XA10%29_IMG_1260.jpg/1920px-Toyota_RAV4_%28XA10%29_IMG_1260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota RAV4 (XA10) IMG 1260.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_(XA10)_IMG_1260.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Toyota_RAV4_Hybrid%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0518%29.jpg/1920px-Toyota_RAV4_Hybrid%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0518%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota RAV4 Hybrid, GIMS 2019, Le Grand-Saconnex (GIMS0518).jpg",
+   "score": 116,
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_Hybrid,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0518).jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9891.jpg/1920px-Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota RAV4 Plug-in Hybrid GR Sport IMG 9891.jpg",
+   "score": 115,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_Plug-in_Hybrid_GR_Sport_IMG_9891.jpg",
+   "n": 3
+  }
+ ]
+}

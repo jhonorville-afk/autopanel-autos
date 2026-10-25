@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Tornado",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Chevrolet_Tornado_Lorsa.jpg/1920px-Chevrolet_Tornado_Lorsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Tornado Lorsa.jpg",
+   "score": 119,
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Tornado_Lorsa.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Chevrolet_Tornado_Van.jpg/1920px-Chevrolet_Tornado_Van.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Tornado Van.jpg",
+   "score": 118,
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Tornado_Van.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chevrolet_Tornado_002.jpg/1920px-Chevrolet_Tornado_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Tornado 002.jpg",
+   "score": 117,
+   "credito": "Foto: DestinationFearFan · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Tornado_002.jpg",
+   "n": 3
+  }
+ ]
+}

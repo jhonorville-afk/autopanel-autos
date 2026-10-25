@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Taos",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2022_Volkswagen_Taos_1.5T_SE_in_Cornflower_Blue%2C_front_left.jpg/1920px-2022_Volkswagen_Taos_1.5T_SE_in_Cornflower_Blue%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2022 Volkswagen Taos 1.5T SE in Cornflower Blue, front left.jpg",
+   "score": 139,
+   "credito": "Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Volkswagen_Taos_1.5T_SE_in_Cornflower_Blue,_front_left.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Volkswagen_Taos_1X7A6748.jpg/1920px-Volkswagen_Taos_1X7A6748.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Taos 1X7A6748.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Taos_1X7A6748.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Volkswagen_Taos_1X7A0365.jpg/1920px-Volkswagen_Taos_1X7A0365.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Taos 1X7A0365.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Taos_1X7A0365.jpg",
+   "n": 3
+  }
+ ]
+}

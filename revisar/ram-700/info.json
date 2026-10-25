@@ -1,0 +1,34 @@
+{
+ "marca": "RAM",
+ "modelo": "700",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ram_700_Laramie_2023.jpg/1920px-Ram_700_Laramie_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ram 700 Laramie 2023.jpg",
+   "score": 113,
+   "credito": "Foto: RL GNZLZ · CC BY-SA 2.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ram_700_Laramie_2023.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/RAM_700_Campervan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:RAM 700 Campervan.jpg",
+   "score": 92,
+   "credito": "Foto: FilipoGarcìa · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:RAM_700_Campervan.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/British_Rail_Class_700_700031.jpg/1920px-British_Rail_Class_700_700031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:British Rail Class 700 700031.jpg",
+   "score": 92,
+   "credito": "Foto: train_photos · CC BY-SA 2.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:British_Rail_Class_700_700031.jpg",
+   "n": 3
+  }
+ ]
+}

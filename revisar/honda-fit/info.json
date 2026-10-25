@@ -1,0 +1,34 @@
+{
+ "marca": "Honda",
+ "modelo": "Fit",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2015-2017_Honda_Fit_Hybrid_F_Package.jpg/1920px-2015-2017_Honda_Fit_Hybrid_F_Package.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2015-2017 Honda Fit Hybrid F Package.jpg",
+   "score": 118,
+   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2015-2017_Honda_Fit_Hybrid_F_Package.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2020-2022_Honda_Fit_e-HEV_Home.jpg/1920px-2020-2022_Honda_Fit_e-HEV_Home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2020-2022 Honda Fit e-HEV Home.jpg",
+   "score": 115,
+   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020-2022_Honda_Fit_e-HEV_Home.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2015-2017_Honda_Fit_Hybrid.jpg/1920px-2015-2017_Honda_Fit_Hybrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2015-2017 Honda Fit Hybrid.jpg",
+   "score": 113,
+   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2015-2017_Honda_Fit_Hybrid.jpg",
+   "n": 3
+  }
+ ]
+}

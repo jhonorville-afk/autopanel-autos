@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Gol",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/VW_Gol_2009_front.jpg/1920px-VW_Gol_2009_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:VW Gol 2009 front.jpg",
+   "score": 133,
+   "credito": "Foto: Passarinho · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:VW_Gol_2009_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Volkswagen_Gol_1.6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:Volkswagen Gol 1.6.jpg",
+   "score": 119,
+   "credito": "Foto: Rutger van der Maar · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Gol_1.6.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Volkswagen_Gol_Mk5_Sedan_anim%C3%A9_in_Montevideo.jpg/1920px-Volkswagen_Gol_Mk5_Sedan_anim%C3%A9_in_Montevideo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Gol Mk5 Sedan animé in Montevideo.jpg",
+   "score": 109,
+   "credito": "Foto: NaBUru38 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Gol_Mk5_Sedan_anim%C3%A9_in_Montevideo.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Beetle",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1957_Volkswagen_Beetle%2C_export_model%2C_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg/1920px-1957_Volkswagen_Beetle%2C_export_model%2C_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:1957 Volkswagen Beetle, export model, in front of Porta Nigra in Trier 2023-05-01.jpg",
+   "score": 154,
+   "credito": "Foto: Palauenc05 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1957_Volkswagen_Beetle,_export_model,_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Red_Volkswagen_Beetle_three-quarter_front_view.jpg/1920px-Red_Volkswagen_Beetle_three-quarter_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Red Volkswagen Beetle three-quarter front view.jpg",
+   "score": 150,
+   "credito": "Foto: Renée Kools · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Red_Volkswagen_Beetle_three-quarter_front_view.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/2006_Volkswagen_New_Beetle_Luna_1.6_Front.jpg/1920px-2006_Volkswagen_New_Beetle_Luna_1.6_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2006 Volkswagen New Beetle Luna 1.6 Front.jpg",
+   "score": 136,
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2006_Volkswagen_New_Beetle_Luna_1.6_Front.jpg",
+   "n": 3
+  }
+ ]
+}

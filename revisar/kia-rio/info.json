@@ -1,0 +1,34 @@
+{
+ "marca": "Kia",
+ "modelo": "Rio",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2017_Kia_Rio_2_1.3_Front.jpg/1920px-2017_Kia_Rio_2_1.3_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2017 Kia Rio 2 1.3 Front.jpg",
+   "score": 154,
+   "credito": "Foto: Makizox · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017_Kia_Rio_2_1.3_Front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2013_Kia_Rio_LX_5-door%2C_front_right%2C_04-04-2023.jpg/1920px-2013_Kia_Rio_LX_5-door%2C_front_right%2C_04-04-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2013 Kia Rio LX 5-door, front right, 04-04-2023.jpg",
+   "score": 126,
+   "credito": "Foto: MercurySable99 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2013_Kia_Rio_LX_5-door,_front_right,_04-04-2023.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2012_Kia_Rio_5-Door_LX_in_Bright_Silver_Metallic%2C_front_left%2C_2024-05-27.jpg/1920px-2012_Kia_Rio_5-Door_LX_in_Bright_Silver_Metallic%2C_front_left%2C_2024-05-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2012 Kia Rio 5-Door LX in Bright Silver Metallic, front left, 2024-05-27.jpg",
+   "score": 118,
+   "credito": "Foto: Elise240SX · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2012_Kia_Rio_5-Door_LX_in_Bright_Silver_Metallic,_front_left,_2024-05-27.jpg",
+   "n": 3
+  }
+ ]
+}

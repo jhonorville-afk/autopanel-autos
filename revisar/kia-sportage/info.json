@@ -1,0 +1,34 @@
+{
+ "marca": "Kia",
+ "modelo": "Sportage",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kia_Sportage_Plug-in-Hybrid_%28NQ5%29_1X7A0317.jpg/1920px-Kia_Sportage_Plug-in-Hybrid_%28NQ5%29_1X7A0317.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Kia Sportage Plug-in-Hybrid (NQ5) 1X7A0317.jpg",
+   "score": 119,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Kia_Sportage_Plug-in-Hybrid_(NQ5)_1X7A0317.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kia_Sportage_Plug-in-Hybrid_%28NQ5%29_IAA_2021_1X7A0113.jpg/1920px-Kia_Sportage_Plug-in-Hybrid_%28NQ5%29_IAA_2021_1X7A0113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Kia Sportage Plug-in-Hybrid (NQ5) IAA 2021 1X7A0113.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Kia_Sportage_Plug-in-Hybrid_(NQ5)_IAA_2021_1X7A0113.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kia_Sportage_%28NQ5%29_1X7A0326_%28edited%29.jpg/1920px-Kia_Sportage_%28NQ5%29_1X7A0326_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Kia Sportage (NQ5) 1X7A0326 (edited).jpg",
+   "score": 116,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Kia_Sportage_(NQ5)_1X7A0326_(edited).jpg",
+   "n": 3
+  }
+ ]
+}

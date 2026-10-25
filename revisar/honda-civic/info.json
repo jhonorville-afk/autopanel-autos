@@ -1,0 +1,34 @@
+{
+ "marca": "Honda",
+ "modelo": "Civic",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Honda_Civic_%281Y7A1724%29.jpg/1920px-Honda_Civic_%281Y7A1724%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda Civic (1Y7A1724).jpg",
+   "score": 119,
+   "credito": "Foto: MB-one · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Civic_(1Y7A1724).jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Honda_Civic_Type_R_Customer_Racing_Study_IMG_0298.jpg/1920px-Honda_Civic_Type_R_Customer_Racing_Study_IMG_0298.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda Civic Type R Customer Racing Study IMG 0298.jpg",
+   "score": 118,
+   "credito": "Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Civic_Type_R_Customer_Racing_Study_IMG_0298.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Honda_Civic%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0704%29.jpg/1920px-Honda_Civic%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0704%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Honda Civic, GIMS 2019, Le Grand-Saconnex (GIMS0704).jpg",
+   "score": 117,
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda_Civic,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0704).jpg",
+   "n": 3
+  }
+ ]
+}

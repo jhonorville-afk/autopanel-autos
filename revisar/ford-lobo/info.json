@@ -1,0 +1,25 @@
+{
+ "marca": "Ford",
+ "modelo": "Lobo",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ford_Lobo_IMG001.jpg/1920px-Ford_Lobo_IMG001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Lobo IMG001.jpg",
+   "score": 110,
+   "credito": "Foto: Anonymousfox36 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Lobo_IMG001.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%2707_Ford_Lobo_Crew_Cab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:'07 Ford Lobo Crew Cab.jpg",
+   "score": 92,
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:%2707_Ford_Lobo_Crew_Cab.jpg",
+   "n": 2
+  }
+ ]
+}

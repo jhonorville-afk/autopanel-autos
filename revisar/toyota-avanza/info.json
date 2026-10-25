@@ -1,0 +1,34 @@
+{
+ "marca": "Toyota",
+ "modelo": "Avanza",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Avanza_front_1.jpg/1920px-Toyota_Avanza_front_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Avanza front 1.jpg",
+   "score": 144,
+   "credito": "Foto: Wagon Master Johnson · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Avanza_front_1.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Toyota_Avanza%2C_Cape_Town_%28P1050546%29.jpg/1920px-Toyota_Avanza%2C_Cape_Town_%28P1050546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Toyota Avanza, Cape Town (P1050546).jpg",
+   "score": 119,
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Avanza,_Cape_Town_(P1050546).jpg",
+   "n": 2
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2022_Toyota_Avanza_%28PH%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:2022 Toyota Avanza (PH).jpg",
+   "score": 117,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Toyota_Avanza_(PH).jpg",
+   "n": 3
+  }
+ ]
+}

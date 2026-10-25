@@ -1,0 +1,34 @@
+{
+ "marca": "Ford",
+ "modelo": "Figo",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ford_Figo_front.JPG/1920px-Ford_Figo_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Figo front.JPG",
+   "score": 154,
+   "credito": "Foto: OnkelFordTaunus · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Figo_front.JPG",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ford_Figo_Front.JPG/1920px-Ford_Figo_Front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Figo Front.JPG",
+   "score": 148,
+   "credito": "Foto: Ominae · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Figo_Front.JPG",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ford_Figo.jpg/1920px-Ford_Figo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Ford Figo.jpg",
+   "score": 118,
+   "credito": "Foto: Sridhar Rao · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Figo.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Volkswagen",
+ "modelo": "Pointer",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Volkswagen_Pointer_3p_--_avant.jpg/1920px-Volkswagen_Pointer_3p_--_avant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Volkswagen Pointer 3p -- avant.jpg",
+   "score": 143,
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Pointer_3p_--_avant.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%2707-%2709_Volkswagen_Pointer_GT_--_Front.JPG/1920px-%2707-%2709_Volkswagen_Pointer_GT_--_Front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:'07-'09 Volkswagen Pointer GT -- Front.JPG",
+   "score": 138,
+   "credito": "Foto: Bull-Doser at English Wikipedia · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:%2707-%2709_Volkswagen_Pointer_GT_--_Front.JPG",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/2007-09_Volkswagen_Pointer_GT_--_Front.JPG/1920px-2007-09_Volkswagen_Pointer_GT_--_Front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2007-09 Volkswagen Pointer GT -- Front.JPG",
+   "score": 135,
+   "credito": "Foto: Bull-Doser at English Wikipedia · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2007-09_Volkswagen_Pointer_GT_--_Front.JPG",
+   "n": 3
+  }
+ ]
+}

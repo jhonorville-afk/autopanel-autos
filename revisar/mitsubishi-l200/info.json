@@ -1,0 +1,34 @@
+{
+ "marca": "Mitsubishi",
+ "modelo": "L200",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/DSC05661_Mitsubishi_L200%2C_Bundesheer%2C_Front_Right%2C_2023-10.jpg/1920px-DSC05661_Mitsubishi_L200%2C_Bundesheer%2C_Front_Right%2C_2023-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:DSC05661 Mitsubishi L200, Bundesheer, Front Right, 2023-10.jpg",
+   "score": 153,
+   "credito": "Foto: Aciarium · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:DSC05661_Mitsubishi_L200,_Bundesheer,_Front_Right,_2023-10.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/DSC04890_Mitsubishi_L200%2C_Bundesheer%2C_Front_Right%2C_2023-10.jpg/1920px-DSC04890_Mitsubishi_L200%2C_Bundesheer%2C_Front_Right%2C_2023-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:DSC04890 Mitsubishi L200, Bundesheer, Front Right, 2023-10.jpg",
+   "score": 149,
+   "credito": "Foto: Aciarium · CC BY 4.0 · Wikimedia Commons",
+   "licencia": "CC BY 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:DSC04890_Mitsubishi_L200,_Bundesheer,_Front_Right,_2023-10.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2006_Mitsubishi_L200_Endeavor_GL_in_Icelandic_White%2C_front_right.jpg/1920px-2006_Mitsubishi_L200_Endeavor_GL_in_Icelandic_White%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2006 Mitsubishi L200 Endeavor GL in Icelandic White, front right.jpg",
+   "score": 133,
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2006_Mitsubishi_L200_Endeavor_GL_in_Icelandic_White,_front_right.jpg",
+   "n": 3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "marca": "Chevrolet",
+ "modelo": "Beat",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Chevrolet_Beat_concept_front.jpg/1920px-Chevrolet_Beat_concept_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Beat concept front.jpg",
+   "score": 154,
+   "credito": "Foto: --Jimbo[online] · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Beat_concept_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Chevrolet_Beat_Concept_-_001_-_Flickr_-_Alan_D.jpg/1920px-Chevrolet_Beat_Concept_-_001_-_Flickr_-_Alan_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Beat Concept - 001 - Flickr - Alan D.jpg",
+   "score": 115,
+   "credito": "Foto: Alan_D from Crawley, United Kingdom · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Beat_Concept_-_001_-_Flickr_-_Alan_D.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Chevrolet_Beat_Concept_-_002_-_Flickr_-_Alan_D.jpg/1920px-Chevrolet_Beat_Concept_-_002_-_Flickr_-_Alan_D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Chevrolet Beat Concept - 002 - Flickr - Alan D.jpg",
+   "score": 114,
+   "credito": "Foto: Alan_D from Crawley, United Kingdom · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Beat_Concept_-_002_-_Flickr_-_Alan_D.jpg",
+   "n": 3
+  }
+ ]
+}

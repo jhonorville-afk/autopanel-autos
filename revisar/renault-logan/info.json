@@ -1,0 +1,34 @@
+{
+ "marca": "Renault",
+ "modelo": "Logan",
+ "anio": "",
+ "alternativas": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/2020_Renault_Logan_Stepway_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "titulo": "File:2020 Renault Logan Stepway front.jpg",
+   "score": 149,
+   "credito": "Foto: Throwawayacc222 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Renault_Logan_Stepway_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/2018_Renault_Logan_Stepway_black_front.jpg/1920px-2018_Renault_Logan_Stepway_black_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:2018 Renault Logan Stepway black front.jpg",
+   "score": 144,
+   "credito": "Foto: Throwawayacc222 · CC0 · Wikimedia Commons",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Renault_Logan_Stepway_black_front.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dacia_Logan_Facelift_front_-_PSM_2009.jpg/1920px-Dacia_Logan_Facelift_front_-_PSM_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Dacia Logan Facelift front - PSM 2009.jpg",
+   "score": 128,
+   "credito": "Foto: Michge · CC BY-SA 3.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dacia_Logan_Facelift_front_-_PSM_2009.jpg",
+   "n": 3
+  }
+ ]
+}
