@@ -502,6 +502,16 @@
    "fuente": "https://commons.wikimedia.org/wiki/File:2018_Nissan_Kicks_SV_front_3.30.19.jpg"
   },
   {
+   "clave": "nissan-march-2018",
+   "marca": "Nissan",
+   "modelo": "March",
+   "anio": "2018",
+   "archivo": "autos/nissan-march-2018.png",
+   "credito": "Foto: XVR 7785 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_March_Cabriolet_front.jpg"
+  },
+  {
    "clave": "nissan-np300",
    "marca": "Nissan",
    "modelo": "NP300",
@@ -822,5 +832,5 @@
    "fuente": "https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Virtus_1.6_MSi_Trendline_(facelift).jpg"
   }
  ],
- "actualizado": "2026-10-25 00:37"
+ "actualizado": "2026-10-25 06:39"
 }

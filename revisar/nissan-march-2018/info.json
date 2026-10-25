@@ -1,0 +1,34 @@
+{
+ "marca": "Nissan",
+ "modelo": "March",
+ "anio": "2018",
+ "alternativas": [
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Nissan_March_Cabriolet_front.jpg/1920px-Nissan_March_Cabriolet_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan March Cabriolet front.jpg",
+   "score": 141,
+   "credito": "Foto: XVR 7785 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_March_Cabriolet_front.jpg",
+   "n": 1
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Nissan_March_5H-1463_20181209a.jpg/1920px-Nissan_March_5H-1463_20181209a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan March 5H-1463 20181209a.jpg",
+   "score": 131,
+   "credito": "Foto: Solomon203 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_March_5H-1463_20181209a.jpg",
+   "n": 2
+  },
+  {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Nissan_March_5H-1463_20181209b.jpg/1920px-Nissan_March_5H-1463_20181209b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "titulo": "File:Nissan March 5H-1463 20181209b.jpg",
+   "score": 130,
+   "credito": "Foto: Solomon203 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_March_5H-1463_20181209b.jpg",
+   "n": 3
+  }
+ ]
+}
