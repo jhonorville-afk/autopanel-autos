@@ -54,7 +54,7 @@ Las imágenes son recortes (sin fondo) de fotos de Wikimedia Commons, publicadas
 | Nissan Altima | Foto: User3204 · CC BY-SA 4.0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:2023_Dongfeng-Nissan_Altima_(front).jpg |
 | Nissan Frontier | Foto: Alexander Migl · CC BY-SA 4.0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Nissan_Frontier_(D41)_Pro-4X_Automesse_Ludwigsburg_2022_1X7A5885.jpg |
 | Nissan Kicks | Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:2018_Nissan_Kicks_SV_front_3.30.19.jpg |
-| Nissan March 2018 | Foto: XVR 7785 · CC BY-SA 4.0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Nissan_March_Cabriolet_front.jpg |
+| Nissan March | Foto: Tokumeigakarinoaoshima · CC0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Nissan_MARCH_12S_(K13)_front.JPG |
 | Nissan NP300 | Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:2009_Nissan_NP300_Pickup_front.jpg |
 | Nissan Sentra | Foto: Mr.choppers · CC BY-SA 3.0 · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:2013_Nissan_Sentra_SR_front_left.jpg |
 | Nissan Tsuru | Foto: Bull-Doser · Public domain · Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Nissan_Tsuru_(Current).JPG |
