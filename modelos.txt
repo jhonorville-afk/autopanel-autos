@@ -6,7 +6,7 @@
 
 # --- Nissan ---
 Nissan | Versa
-Nissan | March
+Nissan | March | 2018
 Nissan | Sentra
 Nissan | Tsuru
 Nissan | Kicks

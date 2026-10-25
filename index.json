@@ -57,9 +57,9 @@
    "modelo": "Silverado",
    "anio": "",
    "archivo": "autos/chevrolet-silverado.png",
-   "credito": "Foto: JoachimKohler-HB · CC BY-SA 4.0 · Wikimedia Commons",
+   "credito": "Foto: Ermell · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_C-10_Silverado_in_Lower_Saxony.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:Leimershof_US-Car-Treffen_2011_Chevrolet_Silverado_1500_Regular_Cab-20220911-RM-161738.jpg"
   },
   {
    "clave": "chevrolet-sonic",
@@ -187,9 +187,9 @@
    "modelo": "Lobo",
    "anio": "",
    "archivo": "autos/ford-lobo.png",
-   "credito": "Foto: Anonymousfox36 · CC BY-SA 4.0 · Wikimedia Commons",
-   "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_Lobo_IMG001.jpg"
+   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:%2707_Ford_Lobo_Crew_Cab.jpg"
   },
   {
    "clave": "ford-mustang",
@@ -259,7 +259,7 @@
    "archivo": "autos/honda-fit.png",
    "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
    "licencia": "CC0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:2015-2017_Honda_Fit_Hybrid_F_Package.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:2015-2017_Honda_Fit_Hybrid.jpg"
   },
   {
    "clave": "honda-hr-v",
@@ -289,7 +289,7 @@
    "archivo": "autos/hyundai-creta.png",
    "credito": "Foto: Dinkun Chen · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:HYUNDAI_CRETA_,_iX25_(SU2)_China_(1).jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:HYUNDAI_CRETA_,_iX25_(GS,GC)_China_(11).jpg"
   },
   {
    "clave": "hyundai-elantra",
@@ -307,9 +307,9 @@
    "modelo": "Grand i10",
    "anio": "",
    "archivo": "autos/hyundai-grand-i10.png",
-   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
-   "licencia": "Public domain",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_--_Front.jpg"
+   "credito": "Foto: Jason Lawrence · CC BY 2.0 · Wikimedia Commons",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Hyundai_Grand_i10_front.jpg"
   },
   {
    "clave": "hyundai-tucson",
@@ -417,9 +417,9 @@
    "modelo": "CX-5",
    "anio": "",
    "archivo": "autos/mazda-cx-5.png",
-   "credito": "Foto: ShangTW · CC BY-SA 4.0 · Wikimedia Commons",
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Mazda_CX-5_2.0_front.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda_CX-5_Newground_1X7A6786.jpg"
   },
   {
    "clave": "mazda-mazda2",
@@ -427,9 +427,9 @@
    "modelo": "Mazda2",
    "anio": "",
    "archivo": "autos/mazda-mazda2.png",
-   "credito": "Foto: Aos.1905 · CC BY 4.0 · Wikimedia Commons",
-   "licencia": "CC BY 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:MAZDA_SPIRIT_RACING_MAZDA2_Bio_concept_(front_three-quarter_view)_at_Mazda_Museum.jpg"
+   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2024_Mazda2_(XP210)_DSC_6070.jpg"
   },
   {
    "clave": "mazda-mazda3",
@@ -467,9 +467,9 @@
    "modelo": "Mirage",
    "anio": "",
    "archivo": "autos/mitsubishi-mirage.png",
-   "credito": "Foto: TTTNIS · CC0 · Wikimedia Commons",
-   "licencia": "CC0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:1981_Mitsubishi_Mirage_1600GT.jpg"
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2024_Mitsubishi_Mirage_1.2_GLX_in_Red_Metallic,_front_right,_07-04-2024.jpg"
   },
   {
    "clave": "nissan-altima",
@@ -477,9 +477,9 @@
    "modelo": "Altima",
    "anio": "",
    "archivo": "autos/nissan-altima.png",
-   "credito": "Foto: Kevauto · CC BY-SA 4.0 · Wikimedia Commons",
+   "credito": "Foto: User3204 · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:2023_Dongfeng-Nissan_Altima_(front).jpg"
   },
   {
    "clave": "nissan-frontier",
@@ -529,7 +529,7 @@
    "archivo": "autos/nissan-tsuru.png",
    "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
    "licencia": "Public domain",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Tsuru_Wagon_--_Front.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Tsuru_(Current).JPG"
   },
   {
    "clave": "nissan-versa",
@@ -627,9 +627,9 @@
    "modelo": "Ertiga",
    "anio": "",
    "archivo": "autos/suzuki-ertiga.png",
-   "credito": "Foto: RichardSummersault · CC0 · Wikimedia Commons",
-   "licencia": "CC0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Suzuki_Ertiga_(Front),_Jakarta,_Indonesia.jpg"
+   "credito": "Foto: Ethan Llamas · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2024_Suzuki_Ertiga_1.5_GLX_Hybrid_in_Snow_White_Pearl,_front_right,_06-16-2024.jpg"
   },
   {
    "clave": "suzuki-swift",
@@ -687,9 +687,9 @@
    "modelo": "Hilux",
    "anio": "",
    "archivo": "autos/toyota-hilux.png",
-   "credito": "Foto: Aos.1905 · CC BY 4.0 · Wikimedia Commons",
-   "licencia": "CC BY 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_Z_Adventure_(9th_generation)_(front_three-quarter_view)_in_Osaka,_Japan.jpg"
+   "credito": "Foto: Captainmorlypogi1959 · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_4x2_G_(CAA-9105)_Front.jpg"
   },
   {
    "clave": "toyota-rav4",
@@ -697,9 +697,9 @@
    "modelo": "RAV4",
    "anio": "",
    "archivo": "autos/toyota-rav4.png",
-   "credito": "Foto: Alexander-93 · CC BY-SA 4.0 · Wikimedia Commons",
+   "credito": "Foto: Matti Blume · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_(XA10)_IMG_1260.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_Hybrid,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0518).jpg"
   },
   {
    "clave": "toyota-tacoma",
@@ -717,9 +717,9 @@
    "modelo": "Yaris",
    "anio": "",
    "archivo": "autos/toyota-yaris.png",
-   "credito": "Foto: Aciarium · CC BY 4.0 · Wikimedia Commons",
-   "licencia": "CC BY 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:DSC00769_Toyota_Yaris,_Carabinieri,_Front_Left.jpg"
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg"
   },
   {
    "clave": "volkswagen-beetle",
@@ -727,9 +727,9 @@
    "modelo": "Beetle",
    "anio": "",
    "archivo": "autos/volkswagen-beetle.png",
-   "credito": "Foto: Palauenc05 · CC BY-SA 4.0 · Wikimedia Commons",
+   "credito": "Foto: Vauxford · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:1957_Volkswagen_Beetle,_export_model,_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:2006_Volkswagen_New_Beetle_Luna_1.6_Front.jpg"
   },
   {
    "clave": "volkswagen-gol",
@@ -767,9 +767,9 @@
    "modelo": "Pointer",
    "anio": "",
    "archivo": "autos/volkswagen-pointer.png",
-   "credito": "Foto: Bull-Doser · Public domain · Wikimedia Commons",
+   "credito": "Foto: Bull-Doser at English Wikipedia · Public domain · Wikimedia Commons",
    "licencia": "Public domain",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Volkswagen_Pointer_3p_--_avant.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:%2707-%2709_Volkswagen_Pointer_GT_--_Front.JPG"
   },
   {
    "clave": "volkswagen-polo",
@@ -807,9 +807,9 @@
    "modelo": "Vento",
    "anio": "",
    "archivo": "autos/volkswagen-vento.png",
-   "credito": "Foto: Ank Kumar · CC BY-SA 4.0 · Wikimedia Commons",
+   "credito": "Foto: LuvsMG481 · CC BY-SA 4.0 · Wikimedia Commons",
    "licencia": "CC BY-SA 4.0",
-   "fuente": "https://commons.wikimedia.org/wiki/File:Silver_Volkswagen_Vento_Sedan_(front_view)_at_Sky_gold_Aeroview_apartment,_Devanahalli,_Bengaluru,_Karnataka,_India_(Ank_Kumar,_INFOSYS_Limited)_02.jpg"
+   "fuente": "https://commons.wikimedia.org/wiki/File:2016_Volkswagen_Vento_(Polo_Sedan)_180TSI_front.jpg"
   },
   {
    "clave": "volkswagen-virtus",
@@ -822,5 +822,5 @@
    "fuente": "https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Virtus_1.6_MSi_Trendline_(facelift).jpg"
   }
  ],
- "actualizado": "2026-10-25 05:07"
+ "actualizado": "2026-10-25 00:37"
 }
